@@ -2,6 +2,7 @@
 title: "Welcome to Jekyll!"
 date: 2019-07-27 19:40:00 +0900
 categories: Test
+tags: Hello-World
 ---
 테스트용 첫 포스트입니다.
 test
