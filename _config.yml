@@ -24,7 +24,8 @@ description              : "ZzapZzip's Development Blog"
 url                      : "https://zzapzzip.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser.jpg"
+header :
+  teaser                   : "/assets/images/teaser.jpg"
 logo                     : "/assets/images/icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
