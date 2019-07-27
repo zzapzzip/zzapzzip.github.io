@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "ZzapZzip"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/icon.png"
   bio              : "**ZzapZzip**'s Development Blog."
   location         : "Korea"
   email            :
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/zzapzzip"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/zzapzzip"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
