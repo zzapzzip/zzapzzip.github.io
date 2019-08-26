@@ -2,7 +2,9 @@
 title: "First Post!"
 date: 2019-07-27 19:40:00 +0900
 categories: Test
-tags: Hello-World
+tags: 
+  - Hello-World
+  - Test
 header:
   overlay_image: /assets/images/teaser.jpg
   overlay_filter: 0.5
